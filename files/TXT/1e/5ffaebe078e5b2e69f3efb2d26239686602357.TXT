@@ -1,0 +1,111 @@
+﻿<Mailbox
+	Owner="LegacyDn: /o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=11efade7b9f04d5fb89a90e6df019d1f-servicios.a, RecipientType: UserMailbox, RecipientTypeDetails: UserMailbox, Selected Mailbox: Display Name: Servicios  Administrados, Mailbox Guid: e9b56db9-f3c5-4f0b-a58b-fa44bd24e55b, Mailbox Database Guid: 3f23d54f-a597-40b7-ab1c-26431d2d3ee2, Location: ServerFqdn: CO1PR15MB4874.namprd15.prod.outlook.com, ServerVersion: 1943311852, DatabaseName: NAMPR15DG305-db120, HomePublicFolderDatabaseGuid: 00000000-0000-0000-0000-000000000000">
+	<BulkActionItem
+		Id="AAAAAIJZZvY/6iJDgKhfdOfAF2gHAM1D+NAeiwlItIw/IWXOE1AAACKCfMEAAM1D+NAeiwlItIw/IWXOE1AAAW/Bab4AAA=="
+		LastModifiedTime="25/8/2021 0:10:18"
+		State="3"
+		SendTime="25/8/2021 0:10:18"
+		StartTime="25/8/2021 0:10:13"
+		TargetFolderId="AAAAAIJZZvY/6iJDgKhfdOfAF2gBAM1D+NAeiwlItIw/IWXOE1AAAWwubbMAAA=="
+		TotalCount="135"
+		ProcessedCount="200"
+		CustomData=""
+		Class="EmptyFolder"
+		VersionNumber="1" />
+	<BulkActionItem
+		Id="AAAAAIJZZvY/6iJDgKhfdOfAF2gHAM1D+NAeiwlItIw/IWXOE1AAACKCfMEAAM1D+NAeiwlItIw/IWXOE1AAAW/Bab0AAA=="
+		LastModifiedTime="25/8/2021 0:01:08"
+		State="3"
+		SendTime="25/8/2021 0:01:08"
+		StartTime="25/8/2021 0:00:57"
+		TargetFolderId="AAAAAIJZZvY/6iJDgKhfdOfAF2gBAM1D+NAeiwlItIw/IWXOE1AAAAAAARcAAA=="
+		TotalCount="728"
+		ProcessedCount="1400"
+		CustomData=""
+		Class="RestoreAllItems"
+		VersionNumber="1" />
+	<BulkActionItem
+		Id="AAAAAIJZZvY/6iJDgKhfdOfAF2gHAM1D+NAeiwlItIw/IWXOE1AAACKCfMEAAM1D+NAeiwlItIw/IWXOE1AAAW/BabwAAA=="
+		LastModifiedTime="24/8/2021 23:49:20"
+		State="3"
+		SendTime="24/8/2021 23:49:20"
+		StartTime="24/8/2021 23:49:05"
+		TargetFolderId="AAAAAIJZZvY/6iJDgKhfdOfAF2gBAM1D+NAeiwlItIw/IWXOE1AAAAAAARcAAA=="
+		TotalCount="884"
+		ProcessedCount="2600"
+		CustomData=""
+		Class="RestoreAllItems"
+		VersionNumber="1" />
+	<BulkActionItem
+		Id="AAAAAIJZZvY/6iJDgKhfdOfAF2gHAM1D+NAeiwlItIw/IWXOE1AAACKCfMEAAM1D+NAeiwlItIw/IWXOE1AAAW/BabsAAA=="
+		LastModifiedTime="24/8/2021 23:39:30"
+		State="3"
+		SendTime="24/8/2021 23:39:30"
+		StartTime="24/8/2021 23:39:19"
+		TargetFolderId="AAAAAIJZZvY/6iJDgKhfdOfAF2gBAM1D+NAeiwlItIw/IWXOE1AAAAAAARcAAA=="
+		TotalCount="708"
+		ProcessedCount="1400"
+		CustomData=""
+		Class="RestoreAllItems"
+		VersionNumber="1" />
+	<BulkActionItem
+		Id="AAAAAIJZZvY/6iJDgKhfdOfAF2gHAM1D+NAeiwlItIw/IWXOE1AAACKCfMEAAM1D+NAeiwlItIw/IWXOE1AAAW/BaboAAA=="
+		LastModifiedTime="24/8/2021 23:33:43"
+		State="3"
+		SendTime="24/8/2021 23:33:43"
+		StartTime="24/8/2021 23:33:41"
+		TargetFolderId="AAAAAIJZZvY/6iJDgKhfdOfAF2gBAM1D+NAeiwlItIw/IWXOE1AAAWwubbMAAA=="
+		TotalCount="111"
+		ProcessedCount="200"
+		CustomData=""
+		Class="EmptyFolder"
+		VersionNumber="1" />
+	<BulkActionItem
+		Id="AAAAAIJZZvY/6iJDgKhfdOfAF2gHAM1D+NAeiwlItIw/IWXOE1AAACKCfMEAAM1D+NAeiwlItIw/IWXOE1AAAW/BabkAAA=="
+		LastModifiedTime="24/8/2021 21:09:37"
+		State="3"
+		SendTime="24/8/2021 21:09:37"
+		StartTime="24/8/2021 21:08:53"
+		TargetFolderId="AAAAAIJZZvY/6iJDgKhfdOfAF2gBAM1D+NAeiwlItIw/IWXOE1AAAAAAARcAAA=="
+		TotalCount="816"
+		ProcessedCount="2000"
+		CustomData=""
+		Class="RestoreAllItems"
+		VersionNumber="1" />
+	<BulkActionItem
+		Id="AAAAAIJZZvY/6iJDgKhfdOfAF2gHAM1D+NAeiwlItIw/IWXOE1AAACKCfMEAAM1D+NAeiwlItIw/IWXOE1AAAW4Q5BgAAA=="
+		LastModifiedTime="20/8/2021 19:28:47"
+		State="3"
+		SendTime="20/8/2021 19:28:47"
+		StartTime="20/8/2021 19:28:45"
+		TargetFolderId="AAAAAIJZZvY/6iJDgKhfdOfAF2gBAM1D+NAeiwlItIw/IWXOE1AAAAAAAQwAAA=="
+		TotalCount="12"
+		ProcessedCount="78"
+		CustomData="{&quot;Scenario&quot;:&quot;RunRuleNow&quot;,&quot;ruleName&quot;:&quot;Giovanny UTPL&quot;,&quot;ruleId&quot;:&quot;15695062766035402753&quot;}"
+		Class="RunRulesNow"
+		VersionNumber="1" />
+	<BulkActionItem
+		Id="AAAAAIJZZvY/6iJDgKhfdOfAF2gHAM1D+NAeiwlItIw/IWXOE1AAACKCfMEAAM1D+NAeiwlItIw/IWXOE1AAAWwvAHAAAA=="
+		LastModifiedTime="19/8/2021 18:17:14"
+		State="3"
+		SendTime="19/8/2021 18:17:14"
+		StartTime="19/8/2021 18:16:53"
+		TargetFolderId="AAAAAIJZZvY/6iJDgKhfdOfAF2gBAM1D+NAeiwlItIw/IWXOE1AAAAAAAQwAAA=="
+		TotalCount="532"
+		ProcessedCount="141778"
+		CustomData="{&quot;Scenario&quot;:&quot;RunRuleNow&quot;,&quot;ruleName&quot;:&quot;GLPI&quot;,&quot;ruleId&quot;:&quot;8190972863688212481&quot;}"
+		Class="RunRulesNow"
+		VersionNumber="1" />
+	<BulkActionItem
+		Id="AAAAAIJZZvY/6iJDgKhfdOfAF2gHAM1D+NAeiwlItIw/IWXOE1AAACKCfMEAAM1D+NAeiwlItIw/IWXOE1AAAWwvAG8AAA=="
+		LastModifiedTime="19/8/2021 18:10:51"
+		State="3"
+		SendTime="19/8/2021 18:10:51"
+		StartTime="19/8/2021 18:10:19"
+		TargetFolderId="AAAAAIJZZvY/6iJDgKhfdOfAF2gBAM1D+NAeiwlItIw/IWXOE1AAAAAAAQwAAA=="
+		TotalCount="553"
+		ProcessedCount="153181"
+		CustomData="{&quot;Scenario&quot;:&quot;RunRuleNow&quot;,&quot;ruleName&quot;:&quot;GLPI&quot;,&quot;ruleId&quot;:&quot;8190972863688212481&quot;}"
+		Class="RunRulesNow"
+		VersionNumber="1" />
+</Mailbox>

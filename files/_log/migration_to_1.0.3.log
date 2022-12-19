@@ -1,0 +1,5 @@
+2022-10-20 12:44:26 [2@vmglpi]
+0 seconds for "Installing glpi_plugin_oauthimap_applications" @ 2022-10-20 12:44:26 [2@vmglpi]
+0 seconds for "Data migration - glpi_displaypreferences" @ 2022-10-20 12:44:27 [2@vmglpi]
+1 second for "Installing glpi_plugin_oauthimap_authorizations" @ 2022-11-18 20:43:12 [2@vmglpi]
+0 seconds for "Uninstalling glpi_plugin_oauthimap_applications" @ 

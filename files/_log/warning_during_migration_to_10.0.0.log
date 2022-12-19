@@ -1,0 +1,8 @@
+2022-11-18 20:12:22 [@vmglpi]
+GLPI cache has been changed and will not use anymore APCu or Wincache extensions. Use "php bin/console cache:configure" command to configure cache system. @ 2022-11-18 20:12:34 [@vmglpi]
+New rights has been added for database, you should review ACLs after update @ 2022-11-18 20:13:26 [@vmglpi]
+New rights has been added for inventory, you should review ACLs after update @ 2022-11-18 20:13:28 [@vmglpi]
+New rights has been added for pendingreason, you should review ACLs after update @ 2022-11-18 20:13:29 [@vmglpi]
+New rights has been added for recurrentchange, you should review ACLs after update @ 2022-11-18 20:14:36 [@vmglpi]
+New rights has been added for itilfollowuptemplate, you should review ACLs after update @ 2022-11-18 20:16:40 [@vmglpi]
+"utf8mb4" support requires additional migration which can be performed via the "php bin/console glpi:migration:utf8mb4" command. @ 

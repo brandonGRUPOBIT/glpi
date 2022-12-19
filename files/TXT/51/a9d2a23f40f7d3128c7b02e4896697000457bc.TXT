@@ -1,0 +1,200 @@
+9/6/2022 6:05:49 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight FilesHubCombinedFilesFolderPrep.
+
+9/6/2022 6:05:49 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight RecentAttachmentsFilesFolderPrep.
+
+9/6/2022 6:05:49 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight PhotoHubFilesFolderPrep.
+
+9/6/2022 6:05:49 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight FilesHubFilesFolderPrep.
+
+9/6/2022 6:05:46 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight ListViewPreviewFilesFolderPrep.
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry FilesFolderViewIndexer started.
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder TK creados GLPI with 1227 items and view type is DateView).
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder McAfee Anti-Spam with 186 items and view type is DateView).
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Correo no deseado with 0 items and view type is DateView).
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Archivo with 0 items and view type is DateView).
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos eliminados with 216 items and view type is DateView).
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos enviados with 1528 items and view type is DateView).
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Borradores with 0 items and view type is DateView).
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Added 2 of 3 frequently used folders to be indexed
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllOtherAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 9 items and view type is DateView).
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllFocusedAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 634 items and view type is DateView).
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Focused Inbox setting is enabled.
+
+9/6/2022 6:05:45 PM, Mailbox: 'Servicios  Administrados', Entry Indexing with flights SuperSort,XOWADeepCategorizationAgent,Mentions,SuperFocused,TailoredPropertiesInItemViewV1,SuperReactClientPrep,SuperCouponPeek,SuperHasSharepointLink,SuperFlagStatusV2 enabled
+
+9/6/2022 6:05:44 PM, Mailbox: 'Servicios  Administrados', Entry DefaultViewIndexer started.
+
+9/2/2022 7:45:45 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight FilesHubCombinedFilesFolderPrep.
+
+9/2/2022 7:45:45 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight RecentAttachmentsFilesFolderPrep.
+
+9/2/2022 7:45:43 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight PhotoHubFilesFolderPrep.
+
+9/2/2022 7:45:43 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight FilesHubFilesFolderPrep.
+
+9/2/2022 7:45:40 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 440 items for flight ListViewPreviewFilesFolderPrep.
+
+9/2/2022 7:45:40 PM, Mailbox: 'Servicios  Administrados', Entry FilesFolderViewIndexer started.
+
+9/2/2022 7:45:40 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Correo no deseado with 0 items and view type is DateView).
+
+9/2/2022 7:45:40 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Archivo with 0 items and view type is DateView).
+
+9/2/2022 7:45:40 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos eliminados with 216 items and view type is DateView).
+
+9/2/2022 7:45:40 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos enviados with 1527 items and view type is DateView).
+
+9/2/2022 7:45:39 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Borradores with 0 items and view type is DateView).
+
+9/2/2022 7:45:39 PM, Mailbox: 'Servicios  Administrados', Entry Added 0 of 1 frequently used folders to be indexed
+
+9/2/2022 7:45:39 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllOtherAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 8 items and view type is DateView).
+
+9/2/2022 7:45:39 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllFocusedAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 614 items and view type is DateView).
+
+9/2/2022 7:45:39 PM, Mailbox: 'Servicios  Administrados', Entry Focused Inbox setting is enabled.
+
+9/2/2022 7:45:39 PM, Mailbox: 'Servicios  Administrados', Entry Indexing with flights SuperSort,XOWADeepCategorizationAgent,Mentions,SuperFocused,TailoredPropertiesInItemViewV1,SuperReactClientPrep,SuperCouponPeek,SuperHasSharepointLink,SuperFlagStatusV2 enabled
+
+9/2/2022 7:45:39 PM, Mailbox: 'Servicios  Administrados', Entry DefaultViewIndexer started.
+
+8/29/2022 8:41:02 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 438 items for flight FilesHubCombinedFilesFolderPrep.
+
+8/29/2022 8:41:02 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 438 items for flight RecentAttachmentsFilesFolderPrep.
+
+8/29/2022 8:41:02 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 438 items for flight PhotoHubFilesFolderPrep.
+
+8/29/2022 8:41:02 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 438 items for flight FilesHubFilesFolderPrep.
+
+8/29/2022 8:41:02 PM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 438 items for flight ListViewPreviewFilesFolderPrep.
+
+8/29/2022 8:41:01 PM, Mailbox: 'Servicios  Administrados', Entry FilesFolderViewIndexer started.
+
+8/29/2022 8:41:01 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Correo no deseado with 0 items and view type is DateView).
+
+8/29/2022 8:41:01 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Archivo with 0 items and view type is DateView).
+
+8/29/2022 8:41:01 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos eliminados with 216 items and view type is DateView).
+
+8/29/2022 8:41:01 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos enviados with 1518 items and view type is DateView).
+
+8/29/2022 8:41:01 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Borradores with 0 items and view type is DateView).
+
+8/29/2022 8:41:01 PM, Mailbox: 'Servicios  Administrados', Entry Added 0 of 0 frequently used folders to be indexed
+
+8/29/2022 8:41:01 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllOtherAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 6 items and view type is DateView).
+
+8/29/2022 8:41:00 PM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllFocusedAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 527 items and view type is DateView).
+
+8/29/2022 8:41:00 PM, Mailbox: 'Servicios  Administrados', Entry Focused Inbox setting is enabled.
+
+8/29/2022 8:41:00 PM, Mailbox: 'Servicios  Administrados', Entry Indexing with flights SuperSort,XOWADeepCategorizationAgent,Mentions,SuperFocused,TailoredPropertiesInItemViewV1,SuperReactClientPrep,SuperCouponPeek,SuperHasSharepointLink,SuperFlagStatusV2 enabled
+
+8/29/2022 8:41:00 PM, Mailbox: 'Servicios  Administrados', Entry DefaultViewIndexer started.
+
+8/26/2022 12:57:32 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 436 items for flight FilesHubCombinedFilesFolderPrep.
+
+8/26/2022 12:57:32 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 436 items for flight RecentAttachmentsFilesFolderPrep.
+
+8/26/2022 12:57:31 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 436 items for flight PhotoHubFilesFolderPrep.
+
+8/26/2022 12:57:31 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 436 items for flight FilesHubFilesFolderPrep.
+
+8/26/2022 12:57:28 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 436 items for flight ListViewPreviewFilesFolderPrep.
+
+8/26/2022 12:57:28 AM, Mailbox: 'Servicios  Administrados', Entry FilesFolderViewIndexer started.
+
+8/26/2022 12:57:28 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Correo no deseado with 0 items and view type is DateView).
+
+8/26/2022 12:57:28 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Archivo with 0 items and view type is DateView).
+
+8/26/2022 12:57:28 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos eliminados with 216 items and view type is DateView).
+
+8/26/2022 12:57:28 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos enviados with 1517 items and view type is DateView).
+
+8/26/2022 12:57:28 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Borradores with 0 items and view type is DateView).
+
+8/26/2022 12:57:28 AM, Mailbox: 'Servicios  Administrados', Entry Added 0 of 0 frequently used folders to be indexed
+
+8/26/2022 12:57:27 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllOtherAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 6 items and view type is DateView).
+
+8/26/2022 12:57:27 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllFocusedAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 482 items and view type is DateView).
+
+8/26/2022 12:57:27 AM, Mailbox: 'Servicios  Administrados', Entry Focused Inbox setting is enabled.
+
+8/26/2022 12:57:27 AM, Mailbox: 'Servicios  Administrados', Entry Indexing with flights SuperSort,XOWADeepCategorizationAgent,Mentions,SuperFocused,TailoredPropertiesInItemViewV1,SuperReactClientPrep,SuperCouponPeek,SuperHasSharepointLink,SuperFlagStatusV2 enabled
+
+8/26/2022 12:57:27 AM, Mailbox: 'Servicios  Administrados', Entry DefaultViewIndexer started.
+
+8/22/2022 1:29:09 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 433 items for flight FilesHubCombinedFilesFolderPrep.
+
+8/22/2022 1:29:09 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 433 items for flight RecentAttachmentsFilesFolderPrep.
+
+8/22/2022 1:29:08 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 433 items for flight PhotoHubFilesFolderPrep.
+
+8/22/2022 1:29:08 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 433 items for flight FilesHubFilesFolderPrep.
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 433 items for flight ListViewPreviewFilesFolderPrep.
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry FilesFolderViewIndexer started.
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Correo no deseado with 0 items and view type is DateView).
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Archivo with 0 items and view type is DateView).
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos eliminados with 216 items and view type is DateView).
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos enviados with 1517 items and view type is DateView).
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Borradores with 0 items and view type is DateView).
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Added 0 of 0 frequently used folders to be indexed
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllOtherAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 5 items and view type is DateView).
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllFocusedAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 444 items and view type is DateView).
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Focused Inbox setting is enabled.
+
+8/22/2022 1:29:05 AM, Mailbox: 'Servicios  Administrados', Entry Indexing with flights SuperSort,XOWADeepCategorizationAgent,Mentions,SuperFocused,TailoredPropertiesInItemViewV1,SuperReactClientPrep,SuperCouponPeek,SuperHasSharepointLink,SuperFlagStatusV2 enabled
+
+8/22/2022 1:29:04 AM, Mailbox: 'Servicios  Administrados', Entry DefaultViewIndexer started.
+
+8/18/2022 3:01:26 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 429 items for flight FilesHubCombinedFilesFolderPrep.
+
+8/18/2022 3:01:26 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 429 items for flight RecentAttachmentsFilesFolderPrep.
+
+8/18/2022 3:01:26 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 429 items for flight PhotoHubFilesFolderPrep.
+
+8/18/2022 3:01:26 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 429 items for flight FilesHubFilesFolderPrep.
+
+8/18/2022 3:01:22 AM, Mailbox: 'Servicios  Administrados', Entry SharedFilesSearchFolder contains 429 items for flight ListViewPreviewFilesFolderPrep.
+
+8/18/2022 3:01:22 AM, Mailbox: 'Servicios  Administrados', Entry FilesFolderViewIndexer started.
+
+8/18/2022 3:01:22 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Correo no deseado with 0 items and view type is DateView).
+
+8/18/2022 3:01:22 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Archivo with 0 items and view type is DateView).
+
+8/18/2022 3:01:22 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos eliminados with 216 items and view type is DateView).
+
+8/18/2022 3:01:22 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Elementos enviados with 1516 items and view type is DateView).
+
+8/18/2022 3:01:22 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder Borradores with 0 items and view type is DateView).
+
+8/18/2022 3:01:22 AM, Mailbox: 'Servicios  Administrados', Entry Added 0 of 0 frequently used folders to be indexed
+
+8/18/2022 3:01:22 AM, Mailbox: 'Servicios  Administrados', Entry Indexing folder OwaFV15.1AllOtherAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA= with 5 items and view type is DateView).
+

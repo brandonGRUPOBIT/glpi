@@ -1,0 +1,30 @@
+Found 2 filter search folders.
+--
+SourceFolder:       Bandeja de entrada
+FilterDescription:  All Focused
+FilterQuery:        (InferenceClassification Equal 0)
+DeepTraversal:      False
+ItemCount:          659
+CreationTime:       2020-04-08T00:53:53.537Z
+LastModifiedTime:   2022-09-07T15:06:09.595Z
+LastAccessTime:     2022-09-07T15:06:09.595Z
+FilterVersion:      15.1
+FilterFolderId:     AAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3Tn
+                    wBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAignjVAAA=
+FilterFolderName:   OwaFV15.1AllFocusedAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAA
+                    ACCWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA=
+--
+SourceFolder:       Bandeja de entrada
+FilterDescription:  All Other
+FilterQuery:        (InferenceClassification Equal 1)
+DeepTraversal:      False
+ItemCount:          9
+CreationTime:       2022-06-16T01:00:13.595Z
+LastModifiedTime:   2022-09-07T15:06:09.611Z
+LastAccessTime:     2022-09-07T15:06:09.611Z
+FilterVersion:      15.1
+FilterFolderId:     AAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAACCWWb2P+oiQ4CoX3Tn
+                    wBdoAQDNQ/jQHosJSLSMPyFlzhNQAAIz0gwiAAA=
+FilterFolderName:   OwaFV15.1AllOtherAAMkAGU5YjU2ZGI5LWYzYzUtNGYwYi1hNThiLWZhNDRiZDI0ZTU1YgAuAAAAAAC
+                    CWWb2P+oiQ4CoX3TnwBdoAQDNQ/jQHosJSLSMPyFlzhNQAAAAAAEMAAA=
+--

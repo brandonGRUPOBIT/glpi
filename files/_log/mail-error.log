@@ -1,0 +1,28 @@
+2021-08-10 17:46:33 [7@vmglpi]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] New Ticket prueba creación, Error: Could not instantiate mail function.
+2021-08-10 17:49:56 [2@vmglpi]
+Warning: an email was undeliverable to andres.cortez@grupobusiness.it with 5 retries remaining. Message: [GLPI #0000002] New Ticket prueba creación, Error: Could not instantiate mail function.
+2021-08-11 05:10:24 [9@vmglpi]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000002] New Ticket prueba creación, Error: Could not instantiate mail function.
+2021-08-11 05:10:25 [9@vmglpi]
+Warning: an email was undeliverable to andres.cortez@grupobusiness.it with 4 retries remaining. Message: [GLPI #0000002] New Ticket prueba creación, Error: Could not instantiate mail function.
+2021-08-17 17:29:15 [@vmglpi]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000002] New Ticket prueba creación, Error: Could not instantiate mail function.
+2021-08-17 17:29:16 [@vmglpi]
+Warning: an email was undeliverable to andres.cortez@grupobusiness.it with 3 retries remaining. Message: [GLPI #0000002] New Ticket prueba creación, Error: Could not instantiate mail function.
+2021-08-17 22:33:37 [2@vmglpi]
+Advertencia: no se pudo entregar un correo electrónico a admsys@localhost con 2 reintentos restantes. Mensaje: [GLPI #0000002] New Ticket prueba creación, Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2021-08-17 22:33:58 [2@vmglpi]
+Advertencia: no se pudo entregar un correo electrónico a andres.cortez@grupobusiness.it con 2 reintentos restantes. Mensaje: [GLPI #0000002] New Ticket prueba creación, Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2021-08-18 16:23:05 [2@vmglpi]
+Advertencia: no se pudo entregar un correo electrónico a admsys@localhost con 1 reintentos restantes. Mensaje: [GLPI #0000002] New Ticket prueba creación, Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2021-08-18 16:24:29 [2@vmglpi]
+Advertencia: no se pudo entregar un correo electrónico a andres.cortez@grupobusiness.it con 1 reintentos restantes. Mensaje: [GLPI #0000002] New Ticket prueba creación, Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2021-08-18 17:32:09 [@vmglpi]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000002] New Ticket prueba creación, Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2021-08-18 17:32:09 [@vmglpi]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000002] New Ticket prueba creación
+2021-08-18 17:33:33 [@vmglpi]
+Warning: an email was undeliverable to andres.cortez@grupobusiness.it with 0 retries remaining. Message: [GLPI #0000002] New Ticket prueba creación, Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2021-08-18 17:33:33 [@vmglpi]
+Fatal error: giving up delivery of email to andres.cortez@grupobusiness.it: [GLPI #0000002] New Ticket prueba creación

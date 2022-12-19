@@ -1,0 +1,9 @@
+$connectTestResult = Test-NetConnection -ComputerName sastdimagen.file.core.windows.net -Port 445
+if ($connectTestResult.TcpTestSucceeded) {
+    # Save the password so the drive will persist on reboot
+    cmd.exe /C "cmdkey /add:`"sastdimagen.file.core.windows.net`" /user:`"localhost\sastdimagen`" /pass:`"YNimwz0F7X0UPJ8a+gwhxh7u2oNKBet20tKRryEuzh+hjdVu0Bv1QDcjaJGwc+d048axtt9KsOa7oDi7n+HXog==`""
+    # Mount the drive
+    New-PSDrive -Name Z -PSProvider FileSystem -Root "\\sastdimagen.file.core.windows.net\maresa-imagen" -Persist
+} else {
+    Write-Error -Message "Unable to reach the Azure storage account via port 445. Check to make sure your organization or ISP is not blocking port 445, or use Azure P2S VPN, Azure S2S VPN, or Express Route to tunnel SMB traffic over a different port."
+}

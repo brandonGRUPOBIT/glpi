@@ -1,0 +1,244 @@
+﻿<Mailbox
+	Owner="LegacyDn: /o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=11efade7b9f04d5fb89a90e6df019d1f-servicios.a, RecipientType: UserMailbox, RecipientTypeDetails: UserMailbox, Selected Mailbox: Display Name: Servicios  Administrados, Mailbox Guid: e9b56db9-f3c5-4f0b-a58b-fa44bd24e55b, Mailbox Database Guid: 3f23d54f-a597-40b7-ab1c-26431d2d3ee2, Location: ServerFqdn: CO1PR15MB4874.namprd15.prod.outlook.com, ServerVersion: 1943311852, DatabaseName: NAMPR15DG305-db120, HomePublicFolderDatabaseGuid: 00000000-0000-0000-0000-000000000000">
+	<ReceiveFolders>
+		<ReceiveFolder
+			MessageClass="IPM.Note"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+		<ReceiveFolder
+			MessageClass="IPM.Appointment"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+		<ReceiveFolder
+			MessageClass="IPM.Schedule.Meeting"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+		<ReceiveFolder
+			MessageClass="IPM.Schedule.Meeting.Notification"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+		<ReceiveFolder
+			MessageClass="IPM.Schedule.Meeting.Request"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+		<ReceiveFolder
+			MessageClass="IPM.Schedule.Meeting.Canceled"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+		<ReceiveFolder
+			MessageClass="IPM.Schedule.Meeting.Resp.Pos"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+		<ReceiveFolder
+			MessageClass="IPM.Schedule.Meeting.Resp.Neg"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+		<ReceiveFolder
+			MessageClass="IPM.Schedule.Meeting.Resp.Tent"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+		<ReceiveFolder
+			MessageClass="IPM.Schedule.Meeting.Notification.Forward"
+			FolderName="Bandeja de entrada"
+			ExplicitClass="IPM" />
+	</ReceiveFolders>
+	<Folder
+		FolderName="Bandeja de entrada"
+		Rules="2">
+		<Rule
+			Index="0"
+			Name="Junk E-mail Rule"
+			Id="9346992607378538497"
+			Provider="JunkEmailRule"
+			ExecutionSequence="0"
+			Level="0"
+			IsExtended="True"
+			StateFlags="Enabled, ExitAfterExecution, SkipIfSCLIsSafe"
+			UserFlags="0">
+			<ProviderData><![CDATA[
+00000000 01 00 00 00 00 00 00 00 40 01 40 02 4A 99 D7 01    |........@.@.J...|
+]]></ProviderData>
+			<Restriction
+				Type="And">
+				<And>
+					<Restriction
+						Type="Or">
+						<Or>
+							<Restriction
+								Type="Or">
+								<Or />
+							</Restriction>
+							<Restriction
+								Type="And">
+								<And>
+									<Restriction
+										Type="Or">
+										<Or>
+											<Restriction
+												Type="And">
+												<And>
+													<Restriction
+														Type="Exist"
+														PropTag="SpamConfidenceLevel / 0000000040760003" />
+													<Restriction
+														Type="Property"
+														Operation="GreaterThan"
+														PropTag="SpamConfidenceLevel / 0000000040760003"
+														MultiValued="False">
+														<Property
+															Id="SpamConfidenceLevel / 0000000040760003"
+															DataType="Int / 0003">
+															<Value>-1</Value>
+														</Property>
+													</Restriction>
+												</And>
+											</Restriction>
+											<Restriction
+												Type="Or">
+												<Or />
+											</Restriction>
+										</Or>
+									</Restriction>
+									<Restriction
+										Type="Not">
+										<Not>
+											<Restriction
+												Type="Or">
+												<Or>
+													<Restriction
+														Type="Or">
+														<Or />
+													</Restriction>
+													<Restriction
+														Type="SubRestriction"
+														SubType="RecipientRestriction">
+														<Restriction
+															Type="Or">
+															<Or />
+														</Restriction>
+													</Restriction>
+												</Or>
+											</Restriction>
+										</Not>
+									</Restriction>
+								</And>
+							</Restriction>
+						</Or>
+					</Restriction>
+					<Restriction
+						Type="Not">
+						<Not>
+							<Restriction
+								Type="Or">
+								<Or>
+									<Restriction
+										Type="Or">
+										<Or>
+											<Restriction
+												Type="Content"
+												ContentFlags="IgnoreCase / 00010000"
+												PropTag="SenderEmailAddress / 000000000C1F001F"
+												MultiValued="False">
+												<Property
+													Id="SenderEmailAddress / 000000000C1F001F"
+													DataType="String / 001F">
+													<Value>gjpinargote@utpl.edu.ec</Value>
+												</Property>
+											</Restriction>
+											<Restriction
+												Type="Content"
+												ContentFlags="IgnoreCase / 00010000"
+												PropTag="SenderEmailAddress / 000000000C1F001F"
+												MultiValued="False">
+												<Property
+													Id="SenderEmailAddress / 000000000C1F001F"
+													DataType="String / 001F">
+													<Value>tvinueza@bancointernacional.ec</Value>
+												</Property>
+											</Restriction>
+										</Or>
+									</Restriction>
+									<Restriction
+										Type="SubRestriction"
+										SubType="RecipientRestriction">
+										<Restriction
+											Type="Or">
+											<Or />
+										</Restriction>
+									</Restriction>
+									<Restriction
+										Type="Or">
+										<Or />
+									</Restriction>
+								</Or>
+							</Restriction>
+						</Not>
+					</Restriction>
+				</And>
+			</Restriction>
+			<Actions>
+				<Action
+					Type="OP_MOVE"
+					UserFlags="00000000"
+					FolderName="Correo no deseado">
+					<FolderEntry><![CDATA[
+00000000 00 00 00 00 82 59 66 F6 3F EA 22 43 80 A8 5F 74    |.....Yf.?."C.._t|
+00000010 E7 C0 17 68 01 00 CD 43 F8 D0 1E 8B 09 48 B4 8C    |...h...C.....H..|
+00000020 3F 21 65 CE 13 50 00 00 00 00 01 1B 00 00          |?!e..P........  |
+]]></FolderEntry>
+					<StoreEntry />
+				</Action>
+				<Action
+					Type="OP_TAG"
+					UserFlags="00000000">
+					<Property
+						Id="2176057347 / 0000000081B40003"
+						DataType="Int / 0003">
+						<Value>1306055852</Value>
+					</Property>
+				</Action>
+			</Actions>
+		</Rule>
+		<Rule
+			Index="1"
+			Name="GLPI"
+			Id="8190972863688212481"
+			Provider="RuleOrganizer"
+			ExecutionSequence="11"
+			Level="0"
+			IsExtended="False"
+			StateFlags="Enabled, Error, ExitAfterExecution"
+			UserFlags="0">
+			<ProviderData><![CDATA[
+00000000 01 00 00 00 00 00 00 00 64 80 10 6F 25 95 D7 01    |........d..o%...|
+]]></ProviderData>
+			<Restriction
+				Type="Content"
+				ContentFlags="SubString, IgnoreCase / 00010001"
+				PropTag="Subject / 000000000037001F"
+				MultiValued="False">
+				<Property
+					Id="Subject / 000000000037001F"
+					DataType="String / 001F">
+					<Value>GLPI</Value>
+				</Property>
+			</Restriction>
+			<Actions>
+				<Action
+					Type="OP_MOVE"
+					UserFlags="00000000"
+					FolderName="(no se encontró)">
+					<FolderEntry><![CDATA[
+00000000 00 00 00 00 82 59 66 F6 3F EA 22 43 80 A8 5F 74    |.....Yf.?."C.._t|
+00000010 E7 C0 17 68 01 00 CD 43 F8 D0 1E 8B 09 48 B4 8C    |...h...C.....H..|
+00000020 3F 21 65 CE 13 50 00 01 6C 2E 6D B3 00 00          |?!e..P..l.m...  |
+]]></FolderEntry>
+					<StoreEntry />
+				</Action>
+			</Actions>
+		</Rule>
+	</Folder>
+	<Folder
+		FolderName="Correo no deseado"
+		Rules="0" />
+</Mailbox>

@@ -1,0 +1,1216 @@
+[2021-08-25 00:52:13] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_notimportedemails` (`mailcollectors_id`, `from`, `to`, `messageid`, `date`, `users_id`, `subject`, `reason`) VALUES ('3', 'postmaster@bicsa.onmicrosoft.com', NULL, NULL, '2021-08-25 00:52:04', '0', '', '1')
+  Error: Column 'to' cannot be null
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\commondbtm.class.php:602                       DBmysql->insert()
+  inc\commondbtm.class.php:1172                      CommonDBTM->addToDB()
+  inc\mailcollector.class.php:889                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\crontask.form.php:49                         CronTask::launch()
+  {"user":"2@vmglpi"} 
+[2021-08-25 00:52:13] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_notimportedemails` (`mailcollectors_id`, `from`, `to`, `messageid`, `date`, `users_id`, `subject`, `reason`) VALUES ('3', 'postmaster@bicsa.onmicrosoft.com', NULL, NULL, '2021-08-25 00:52:04', '0', '', '1')
+  Error: Column 'to' cannot be null
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\commondbtm.class.php:602                       DBmysql->insert()
+  inc\commondbtm.class.php:1172                      CommonDBTM->addToDB()
+  inc\mailcollector.class.php:889                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\crontask.form.php:49                         CronTask::launch()
+  {"user":"2@vmglpi","mem_usage":"0.244\", 29.03Mio)"} 
+[2021-09-02 23:25:33] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_notimportedemails` (`mailcollectors_id`, `from`, `to`, `messageid`, `date`, `users_id`, `subject`, `reason`) VALUES ('3', 'postmaster@bicsa.onmicrosoft.com', NULL, NULL, '2021-09-02 23:25:27', '0', '', '1')
+  Error: Column 'to' cannot be null
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\commondbtm.class.php:602                       DBmysql->insert()
+  inc\commondbtm.class.php:1172                      CommonDBTM->addToDB()
+  inc\mailcollector.class.php:889                    CommonDBTM->add()
+  front\mailcollector.form.php:88                    MailCollector->collect()
+  {"user":"2@vmglpi"} 
+[2021-09-02 23:25:33] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_notimportedemails` (`mailcollectors_id`, `from`, `to`, `messageid`, `date`, `users_id`, `subject`, `reason`) VALUES ('3', 'postmaster@bicsa.onmicrosoft.com', NULL, NULL, '2021-09-02 23:25:27', '0', '', '1')
+  Error: Column 'to' cannot be null
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\commondbtm.class.php:602                       DBmysql->insert()
+  inc\commondbtm.class.php:1172                      CommonDBTM->addToDB()
+  inc\mailcollector.class.php:889                    CommonDBTM->add()
+  front\mailcollector.form.php:88                    MailCollector->collect()
+  {"user":"2@vmglpi","mem_usage":"0.267\", 23.88Mio)"} 
+[2021-09-07 00:14:19] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_notimportedemails` (`mailcollectors_id`, `from`, `to`, `messageid`, `date`, `users_id`, `subject`, `reason`) VALUES ('3', 'postmaster@bicsa.onmicrosoft.com', NULL, NULL, '2021-09-07 00:14:12', '0', '', '1')
+  Error: Column 'to' cannot be null
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\commondbtm.class.php:602                       DBmysql->insert()
+  inc\commondbtm.class.php:1172                      CommonDBTM->addToDB()
+  inc\mailcollector.class.php:889                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\crontask.form.php:49                         CronTask::launch()
+  {"user":"2@vmglpi"} 
+[2021-09-07 00:14:19] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_notimportedemails` (`mailcollectors_id`, `from`, `to`, `messageid`, `date`, `users_id`, `subject`, `reason`) VALUES ('3', 'postmaster@bicsa.onmicrosoft.com', NULL, NULL, '2021-09-07 00:14:12', '0', '', '1')
+  Error: Column 'to' cannot be null
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\commondbtm.class.php:602                       DBmysql->insert()
+  inc\commondbtm.class.php:1172                      CommonDBTM->addToDB()
+  inc\mailcollector.class.php:889                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\crontask.form.php:49                         CronTask::launch()
+  {"user":"2@vmglpi","mem_usage":"0.327\", 22.80Mio)"} 
+[2022-02-02 19:05:16] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `id` FROM `glpi_documents` WHERE `glpi_documents`.`sha1sum` = '9d63091a2d1531cfd23701e977e2b4605b66f706' AND `glpi_documents`.`entities_id` = '0' LIMIT 1
+  Error: Server shutdown in progress
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:585                         DBmysql->request()
+  inc\commondbtm.class.php:5219                      Document->getFromDBbyContent()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE 'png' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1337                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"1.632\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE '/%/' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1347                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `id` FROM `glpi_documents` WHERE `glpi_documents`.`sha1sum` = '7736b5b47231e3036f883849d3310424e2813f0a' AND `glpi_documents`.`entities_id` = '0' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:585                         DBmysql->request()
+  inc\commondbtm.class.php:5219                      Document->getFromDBbyContent()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.86Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE 'png' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1337                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE '/%/' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1347                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `id` FROM `glpi_documents` WHERE `glpi_documents`.`sha1sum` = '02c891794a8de72ed2fa69b26c594baa8518251f' AND `glpi_documents`.`entities_id` = '0' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:585                         DBmysql->request()
+  inc\commondbtm.class.php:5219                      Document->getFromDBbyContent()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.86Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE 'png' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1337                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE '/%/' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1347                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `id` FROM `glpi_documents` WHERE `glpi_documents`.`sha1sum` = '99951d72e20b599bc44c4a9d7f1b2fcefc0b4251' AND `glpi_documents`.`entities_id` = '0' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:585                         DBmysql->request()
+  inc\commondbtm.class.php:5219                      Document->getFromDBbyContent()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.86Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE 'png' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1337                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE '/%/' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1347                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `id` FROM `glpi_documents` WHERE `glpi_documents`.`sha1sum` = 'e687445c28af853c09f217b9cc6bf57c8ad128c3' AND `glpi_documents`.`entities_id` = '0' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:585                         DBmysql->request()
+  inc\commondbtm.class.php:5219                      Document->getFromDBbyContent()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.86Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE 'png' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1337                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE '/%/' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1347                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `id` FROM `glpi_documents` WHERE `glpi_documents`.`sha1sum` = '346d3023931d0daa3de8feeb5a39283f20879191' AND `glpi_documents`.`entities_id` = '0' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:585                         DBmysql->request()
+  inc\commondbtm.class.php:5219                      Document->getFromDBbyContent()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.86Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE 'jpg' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1337                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE '/%/' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1347                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `id` FROM `glpi_documents` WHERE `glpi_documents`.`sha1sum` = 'b73cc8a7e4794286dbe59cec62ee3ad595fe5f7b' AND `glpi_documents`.`entities_id` = '0' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:585                         DBmysql->request()
+  inc\commondbtm.class.php:5219                      Document->getFromDBbyContent()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.86Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE 'jpg' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1337                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documenttypes` WHERE `ext` LIKE '/%/' AND `is_uploadable` = '1'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\document.class.php:1347                        DBmysql->request()
+  inc\document.class.php:1108                        Document::isValidDoc()
+  inc\document.class.php:226                         Document::moveDocument()
+  inc\commondbtm.class.php:1132                      Document->prepareInputForAdd()
+  inc\commondbtm.class.php:5256                      CommonDBTM->add()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.87Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '498' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.003\", 21.86Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '1' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '15' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '2' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '3' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '4' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '499' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '8' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.002\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '9' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '281' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '494' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '495' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '5' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '7' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '130' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '10' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '132' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '26' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '146' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '110' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '327' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '138' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '496' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '328' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_documents` WHERE `glpi_documents`.`id` = '329' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\toolbox.class.php:2829                         CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:5298                      Toolbox::convertTagToImage()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.88Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: UPDATE `glpi_tickets` SET `content` = '&lt;meta content=\"text/html; charset=iso-8859-1\" /&gt; &lt;meta content=\"Microsoft Word 15 (filtered medium)\" /&gt;  &lt;div class=\"WordSection1\"&gt; &lt;p class=\"MsoNormal\"&gt;Estimado Oscar,&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&nbsp;&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;Según lo conversado se va a proceder con la eliminación de las base de datos de la VM Maresa-DB-04R que están en el DPM, para configurar las BDD´s de la nueva VM Maresa-DB-04.&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&nbsp;&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&nbsp;&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;div&gt; &lt;p class=\"MsoNormal\"&gt;&lt;span style=\"mso-fareast-language:ES-EC\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&lt;span lang=\"es-419\" style=\"font-family:\"Segoe UI\",sans-serif;color:black;mso-fareast-language:ES-EC\"&gt;Saludos cordiales,&lt;/span&gt;&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&lt;span style=\"mso-fareast-language:ES-EC\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&lt;span style=\"mso-fareast-language:ES-EC\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;table class=\"MsoNormalTable\" border=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse;margin-left:4.8pt;margin-right:4.8pt; border-spacing: 0px; text-align: left; width: 100%;\"&gt; &lt;tbody&gt; &lt;tr style=\"height:42.55pt\"&gt; &lt;td rowspan=\"2\" valign=\"top\" style=\"width:108.95pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.55pt; width: 145px;\"&gt; &lt;p class=\"MsoNormal\" style=\"text-align:center;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:margin;mso-element-top:4.7pt;mso-height-rule:exactly; text-align: center;\"&gt; &amp;lt;![if !vml]&amp;gt;&lt;span style=\"mso-ignore:vglayout;position:absolute;z-index:251672576;left:0px;margin-left:130px;margin-top:56px;width:551px;height:1px\"&gt;&lt;/span&gt;&lt;/p&gt;  &amp;lt;![endif]--&amp;gt;&amp;lt;![if !vml]&amp;gt;&lt;span style=\"mso-ignore:vglayout;position:absolute;z-index:251667456;left:0px;margin-left:130px;margin-top:56px;width:551px;height:1px\"&gt;#9df6c9c1-c7f7bb31-61fb1c2fe57078.82699742#&lt;/span&gt;&lt;span style=\"mso-fareast-language:ES-EC\"&gt;&lt;/span&gt; &lt;/td&gt; &lt;td valign=\"top\" style=\"width:110.8pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.55pt; width: 148px;\"&gt; &lt;p class=\"MsoNormal\" style=\"mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly\"&gt; &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;span style=\"font-size:8.0pt;font-family:\"Segoe UI\",sans-serif;color:black;mso-fareast-language:ES-EC\"&gt;+593  2 602 0039&lt;/span&gt; &lt;/td&gt; &lt;td valign=\"top\" style=\"width:134.65pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.55pt; width: 180px;\"&gt; &lt;p class=\"MsoNormal\" style=\"margin-right:-15.45pt;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly\"&gt; &lt;span style=\"font-size:9.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;Administrador de Plataforma&lt;/span&gt;&lt;/p&gt; &lt;p class=\"MsoNormal\" style=\"margin-right:-15.45pt;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly\"&gt; &lt;span style=\"mso-fareast-language:ES-EC\"&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style=\"font-size:8.0pt;font-family:\"Segoe UI\",sans-serif;color:black;mso-fareast-language:ES-EC\"&gt;+593  996907016&lt;/span&gt; &lt;p class=\"MsoNormal\" style=\"margin-right:-15.45pt;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly\"&gt; &lt;a href=\"https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.grupobusiness.it%2F&amp;data=04%7C01%7Cdiego.baque%40grupobusiness.it%7C2db5bb34a6f843b8d54508d9e68e1e49%7C2488499668634925a1baf1a160b581e2%7C1%7C0%7C637794320389198711%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=8xwPco4lTJjsAY4bUY8KjOTgV45MiiKJSAXNsLNj%2Bzc%3D&amp;reserved=0\"&gt;&lt;span style=\"font-size:7.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;www.GrupoBusiness.IT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt; &lt;/td&gt; &lt;td colspan=\"2\" valign=\"top\" style=\"width:612.35pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.55pt; width: 816px;\"&gt; &lt;p class=\"MsoNormal\" style=\"mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly\"&gt; &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;b&gt;&lt;span style=\"font-size:8.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;Cloud Solutions:&lt;/span&gt;&lt;/b&gt;&lt;span style=\"font-size:8.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;  Datacenter, Data, Apps &lt;/span&gt;&lt;span lang=\"ES\" style=\"font-size:8.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;|&lt;/span&gt;&lt;span style=\"font-size:8.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;&lt;br /&gt; &lt;b&gt;Productividad en la Nube&lt;/b&gt;: &lt;/span&gt;&lt;span lang=\"ES\" style=\"font-size:8.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;BPM,ECM Y RPA |&lt;br /&gt; &lt;b&gt;CyberSeguridad&lt;/b&gt; |&nbsp; &lt;b&gt;Servicios Gestionados&lt;/b&gt;&lt;/span&gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr style=\"height:56.55pt\"&gt; &lt;td colspan=\"3\" valign=\"bottom\" style=\"width:451.05pt;padding:0cm 5.4pt 0cm 5.4pt;height:56.55pt; width: 601px;\"&gt; &lt;p class=\"MsoNormal\" style=\"mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly\"&gt; &amp;lt;![if !vml]&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;/td&gt; &lt;td valign=\"bottom\" style=\"width:406.75pt;padding:0cm 5.4pt 0cm 5.4pt;height:56.55pt; width: 542px;\"&gt; &lt;p class=\"MsoNormal\" style=\"mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly\"&gt; &lt;span style=\"font-size:10.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p class=\"MsoNormal\" style=\"mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly\"&gt; &lt;span style=\"font-size:10.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p class=\"MsoNormal\" style=\"mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly\"&gt; &lt;span style=\"font-size:10.0pt;font-family:\"Segoe UI\",sans-serif;mso-fareast-language:ES-EC\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td style=\"width:87.75pt;padding:0cm 0cm 0cm 0cm; width: 117px;\"&gt;&lt;/td&gt; &lt;td style=\"width:111.0pt;padding:0cm 0cm 0cm 0cm; width: 148px;\"&gt;&lt;/td&gt; &lt;td style=\"width:135.0pt;padding:0cm 0cm 0cm 0cm; width: 180px;\"&gt;&lt;/td&gt; &lt;td style=\"width:116.25pt;padding:0cm 0cm 0cm 0cm; width: 155px;\"&gt;&lt;/td&gt; &lt;td style=\"width:81.75pt;padding:0cm 0cm 0cm 0cm; width: 109px;\"&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p class=\"MsoNormal\"&gt;&lt;span style=\"color:black;mso-fareast-language:ES-EC\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&nbsp;&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&lt;span style=\"mso-fareast-language:ES-EC\"&gt;Nota de descargo: La información contenida en este e-mail es confidencial y sólo puede ser utilizada por el individuo o la compañía a la cual está dirigido. Esta información es de carácter provisional  y referencial, por lo que no debe ser distribuida o copiada total o parcialmente por ningún medio sin la autorización previa de Corporación Maresa. La empresa no asume responsabilidad sobre la información, opiniones o criterio contenidos en este e-mail. Disclaimer:  The information contained in this e-mail is confidential and intended only for the use of the person or company to which it is addressed. This information is considered provisional and referential; reason why it can&#x2019;t be totally or partially distributed nor  copied by any media without the authorization from Corporacion Maresa. The company does not assume any responsibility about the information, opinions or criteria represented in this e-mail. &lt;/span&gt;&lt;/p&gt; &lt;p class=\"MsoNormal\"&gt;&lt;span style=\"mso-fareast-language:ES-EC\"&gt;Nota de descargo: La información contenida en este e-mail es confidencial y sólo puede ser utilizada por el individuo o la compañía a la cual está dirigido. Esta información es de carácter provisional  y referencial, por lo que no debe ser distribuida o copiada total o parcialmente por ningún medio sin la autorización previa de Corporación Maresa. La empresa no asume responsabilidad sobre la información, opiniones o criterio contenidos en este e-mail. Disclaimer:  The information contained in this e-mail is confidential and intended only for the use of the person or company to which it is addressed. This information is considered provisional and referential; reason why it can&#x2019;t be totally or partially distributed nor  copied by any media without the authorization from Corporacion Maresa. The company does not assume any responsibility about the information, opinions or criteria represented in this e-mail. &lt;/span&gt;&lt;/p&gt; &lt;/div&gt;  &lt;/div&gt;' WHERE `id` = '686'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysql.class.php:1264                         
+  inc\commondbtm.class.php:559                       DBmysql->update()
+  inc\commondbtm.class.php:5311                      CommonDBTM->updateInDB()
+  inc\commonitilobject.class.php:1763                CommonDBTM->addFiles()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.89Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickets_users`
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:1151                      DBmysql->listFields()
+  inc\commonitilobject.class.php:1842                CommonDBTM->add()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.005\", 21.84Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickets_users`
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:1151                      DBmysql->listFields()
+  inc\commonitilobject.class.php:1884                CommonDBTM->add()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.008\", 22.27Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SHOW COLUMNS FROM `glpi_tickets_users`
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysql.class.php:691                          
+  inc\commondbtm.class.php:1151                      DBmysql->listFields()
+  inc\commonitilobject.class.php:1884                CommonDBTM->add()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 22.27Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_tickets` WHERE `glpi_tickets`.`id` = '686' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\ticket.class.php:1929                          CommonDBTM->getFromDB()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 22.27Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_tickets` WHERE `glpi_tickets`.`id` = '686' LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:270                       DBmysql->request()
+  inc\notificationtarget.class.php:112               CommonDBTM->getFromDB()
+  ...notificationtargetcommonitilobject.class.php:59 NotificationTarget->__construct()
+  inc\notificationtarget.class.php:316               NotificationTargetCommonITILObject->__construct()
+  inc\notificationevent.class.php:116                NotificationTarget::getInstance()
+  inc\ticket.class.php:1935                          NotificationEvent::raiseEvent()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.008\", 22.76Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_items_tickets` WHERE `tickets_id` = '686'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\commondbtm.class.php:469                       DBmysql->request()
+  inc\notificationtargetticket.class.php:125         CommonDBTM->find()
+  inc\notificationtarget.class.php:115               NotificationTargetTicket->getObjectItem()
+  ...notificationtargetcommonitilobject.class.php:59 NotificationTarget->__construct()
+  inc\notificationtarget.class.php:316               NotificationTargetCommonITILObject->__construct()
+  inc\notificationevent.class.php:116                NotificationTarget::getInstance()
+  inc\ticket.class.php:1935                          NotificationEvent::raiseEvent()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.003\", 22.93Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_profiles`
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\notificationtarget.class.php:836               DBmysql->request()
+  inc\notificationtarget.class.php:893               NotificationTarget->addProfilesToTargets()
+  inc\notificationtarget.class.php:121               NotificationTarget->addNotificationTargets()
+  ...notificationtargetcommonitilobject.class.php:59 NotificationTarget->__construct()
+  inc\notificationtarget.class.php:316               NotificationTargetCommonITILObject->__construct()
+  inc\notificationevent.class.php:116                NotificationTarget::getInstance()
+  inc\ticket.class.php:1935                          NotificationEvent::raiseEvent()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 22.93Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `id`, `name` FROM `glpi_groups` WHERE `is_usergroup` = '1' AND `is_notify` = '1' AND (`glpi_groups`.`entities_id` = '0') ORDER BY `name`
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\notificationtarget.class.php:857               DBmysql->request()
+  inc\notificationtarget.class.php:894               NotificationTarget->addGroupsToTargets()
+  inc\notificationtarget.class.php:121               NotificationTarget->addNotificationTargets()
+  ...notificationtargetcommonitilobject.class.php:59 NotificationTarget->__construct()
+  inc\notificationtarget.class.php:316               NotificationTargetCommonITILObject->__construct()
+  inc\notificationevent.class.php:116                NotificationTarget::getInstance()
+  inc\ticket.class.php:1935                          NotificationEvent::raiseEvent()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.003\", 22.93Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `profiles_id` FROM `glpi_profilerights` WHERE `name` = 'followup' AND `rights` & '8192'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  ...otificationtargetcommonitilobject.class.php:651 DBmysql->request()
+  inc\notificationevent.class.php:122                NotificationTargetCommonITILObject->addAdditionnalInfosForTarget()
+  inc\ticket.class.php:1935                          NotificationEvent::raiseEvent()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 22.93Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT `glpi_notifications`.*, `glpi_notifications_notificationtemplates`.`mode`, `glpi_notifications_notificationtemplates`.`notificationtemplates_id` FROM `glpi_notifications` LEFT JOIN `glpi_entities` ON (`glpi_entities`.`id` = `glpi_notifications`.`entities_id`) LEFT JOIN `glpi_notifications_notificationtemplates` ON (`glpi_notifications_notificationtemplates`.`notifications_id` = `glpi_notifications`.`id`) WHERE `glpi_notifications`.`itemtype` = 'Ticket' AND `glpi_notifications`.`event` = 'new' AND `glpi_notifications`.`is_active` = '1' AND (`glpi_notifications`.`entities_id` = '0') AND `glpi_notifications_notificationtemplates`.`mode` IN ('mailing', 'ajax') ORDER BY `glpi_entities`.`level` DESC
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\notification.class.php:653                     DBmysql->request()
+  inc\notificationevent.class.php:128                Notification::getNotificationsByEventAndType()
+  inc\ticket.class.php:1935                          NotificationEvent::raiseEvent()
+  inc\commondbtm.class.php:1173                      Ticket->post_addItem()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.003\", 22.94Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_logs` (`items_id`, `itemtype`, `itemtype_link`, `linked_action`, `user_name`, `date_mod`, `id_search_option`, `old_value`, `new_value`) VALUES ('686', 'Ticket', '0', '20', 'cron_mailgate', '2022-02-02 19:05:00', '0', '', '')
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\log.class.php:239                              DBmysql->insert()
+  inc\commondbtm.class.php:1183                      Log::history()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 22.93Mio)"} 
+[2022-02-02 19:05:17] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_queuednotifications` WHERE `is_deleted` = '0' AND `mode` = 'mailing' AND `send_time` < '2022-02-02 19:05:17' AND `itemtype` = 'Ticket' AND `items_id` = '686' ORDER BY `send_time` ASC LIMIT 1
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\queuednotification.class.php:523               DBmysql->request()
+  inc\queuednotification.class.php:624               QueuedNotification::getPendings()
+  inc\commondbtm.class.php:1214                      QueuedNotification::forceSendFor()
+  inc\mailcollector.class.php:820                    CommonDBTM->add()
+  inc\mailcollector.class.php:1742                   MailCollector->collect()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.003\", 22.93Mio)"} 
+[2022-02-02 19:05:18] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_crontasklogs` (`crontasks_id`, `date`, `content`, `crontasklogs_id`, `state`, `volume`, `elapsed`) VALUES ('9', '2022-02-02 19:05:00', 'Number of messages: available=1, already imported=0, retrieved=1, refused=0, errors=0, blacklisted=0
+', '59549', '1', '1', '17.649799108505')
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysql.class.php:1148                         
+  inc\commondbtm.class.php:602                       DBmysql->insert()
+  inc\commondbtm.class.php:1172                      CommonDBTM->addToDB()
+  inc\crontask.class.php:351                         CommonDBTM->add()
+  inc\mailcollector.class.php:1745                   CronTask->log()
+  inc\crontask.class.php:943                         MailCollector::cronMailgate()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.740\", 21.67Mio)"} 
+[2022-02-02 19:05:18] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: UPDATE `glpi_crontasks` SET `state` = '1' WHERE `id` = '9' AND `state` = '2'
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysql.class.php:1264                         
+  inc\crontask.class.php:293                         DBmysql->update()
+  inc\crontask.class.php:964                         CronTask->end()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.071\", 21.62Mio)"} 
+[2022-02-02 19:05:18] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT *, LOCATE('Plugin', `itemtype`) AS ISPLUGIN FROM `glpi_crontasks` WHERE (((( NOT (`itemtype` LIKE 'Plugin%')) AND ( NOT (`itemtype` LIKE 'GlpiPlugin\\\\%'))))) AND `state` = '1' AND `mode` = '2' AND (((((`hourmin` < `hourmax`) AND `hourmin` <= hour(curtime()) AND `hourmax` > hour(curtime()))) OR ((`hourmin` > `hourmax` AND (`hourmin` <= hour(curtime()) OR `hourmax` > hour(curtime())))))) AND ((`lastrun` IS NULL OR unix_timestamp(`lastrun`) + `frequency` <= unix_timestamp(now()))) ORDER BY `ISPLUGIN`, unix_timestamp(`lastrun`)+`frequency`
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\crontask.class.php:451                         DBmysql->request()
+  inc\crontask.class.php:925                         CronTask->getNeedToRun()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.002\", 21.62Mio)"} 
+[2022-02-02 19:05:18] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT *, LOCATE('Plugin', `itemtype`) AS ISPLUGIN FROM `glpi_crontasks` WHERE (((( NOT (`itemtype` LIKE 'Plugin%')) AND ( NOT (`itemtype` LIKE 'GlpiPlugin\\\\%'))))) AND `state` = '1' AND `mode` = '2' AND (((((`hourmin` < `hourmax`) AND `hourmin` <= hour(curtime()) AND `hourmax` > hour(curtime()))) OR ((`hourmin` > `hourmax` AND (`hourmin` <= hour(curtime()) OR `hourmax` > hour(curtime())))))) AND ((`lastrun` IS NULL OR unix_timestamp(`lastrun`) + `frequency` <= unix_timestamp(now()))) ORDER BY `ISPLUGIN`, unix_timestamp(`lastrun`)+`frequency`
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\crontask.class.php:451                         DBmysql->request()
+  inc\crontask.class.php:925                         CronTask->getNeedToRun()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.62Mio)"} 
+[2022-02-02 19:05:18] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT *, LOCATE('Plugin', `itemtype`) AS ISPLUGIN FROM `glpi_crontasks` WHERE (((( NOT (`itemtype` LIKE 'Plugin%')) AND ( NOT (`itemtype` LIKE 'GlpiPlugin\\\\%'))))) AND `state` = '1' AND `mode` = '2' AND (((((`hourmin` < `hourmax`) AND `hourmin` <= hour(curtime()) AND `hourmax` > hour(curtime()))) OR ((`hourmin` > `hourmax` AND (`hourmin` <= hour(curtime()) OR `hourmax` > hour(curtime())))))) AND ((`lastrun` IS NULL OR unix_timestamp(`lastrun`) + `frequency` <= unix_timestamp(now()))) ORDER BY `ISPLUGIN`, unix_timestamp(`lastrun`)+`frequency`
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\crontask.class.php:451                         DBmysql->request()
+  inc\crontask.class.php:925                         CronTask->getNeedToRun()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.62Mio)"} 
+[2022-02-02 19:05:18] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT *, LOCATE('Plugin', `itemtype`) AS ISPLUGIN FROM `glpi_crontasks` WHERE (((( NOT (`itemtype` LIKE 'Plugin%')) AND ( NOT (`itemtype` LIKE 'GlpiPlugin\\\\%'))))) AND `state` = '1' AND `mode` = '2' AND (((((`hourmin` < `hourmax`) AND `hourmin` <= hour(curtime()) AND `hourmax` > hour(curtime()))) OR ((`hourmin` > `hourmax` AND (`hourmin` <= hour(curtime()) OR `hourmax` > hour(curtime())))))) AND ((`lastrun` IS NULL OR unix_timestamp(`lastrun`) + `frequency` <= unix_timestamp(now()))) ORDER BY `ISPLUGIN`, unix_timestamp(`lastrun`)+`frequency`
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysqliterator.class.php:95                   
+  inc\dbmysql.class.php:876                          DBmysqlIterator->execute()
+  inc\crontask.class.php:451                         DBmysql->request()
+  inc\crontask.class.php:925                         CronTask->getNeedToRun()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.001\", 21.62Mio)"} 
+[2022-02-02 19:05:18] glpisqllog.ERROR: DBmysql::query() in C:\inetpub\wwwroot\GLPI\inc\dbmysql.class.php line 309
+  *** MySQL query error:
+  SQL: SELECT RELEASE_LOCK('GLPI.glpicron.116624')
+  Error: MySQL server has gone away
+  Backtrace :
+  inc\dbmysql.class.php:970                          
+  inc\crontask.class.php:878                         DBmysql->releaseLock()
+  inc\crontask.class.php:994                         CronTask::release_lock()
+  front\cron.php:83                                  CronTask::launch()
+  {"user":"@vmglpi","mem_usage":"0.000\", 21.62Mio)"} 
